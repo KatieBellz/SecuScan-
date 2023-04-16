@@ -13,10 +13,6 @@ VulneraScan is a powerful vulnerability scanning tool for web and mobile applica
 
 To use VulneraScan, simply download or clone the repository and open it in your C# IDE. Customize the tool to meet your specific needs and begin scanning your application.
 
-Here's an example of how to use VulneraScan:
-
-![Pic](https://user-images.githubusercontent.com/84817579/232343199-c4912c1d-27f2-40ff-8fbd-034794c56b04.jpg)
-
 
 ## Why Use VulneraScan?
 
