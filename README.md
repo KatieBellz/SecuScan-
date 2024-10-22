@@ -21,3 +21,15 @@ Whether you're a cybersecurity professional, student, recruiter or professor, Vu
 ## Conclusion
 
 VulneraScan is a powerful and easy-to-use vulnerability scanning tool that can help you identify potential security issues in your web or mobile application, or API. Its comprehensive scanning techniques and detailed reporting make it an essential tool for anyone looking to enhance their application's security. Download or clone the repository today and start scanning your applications for vulnerabilities!
+
+## VulneraScan v2.0 - Updated October 2024
+
+Recent Updates - October 2024
+
+	•	Improved scanning algorithms for faster and more accurate detection of vulnerabilities.
+	•	Enhanced integration with OWASP ZAP for compatibility with the latest security standards.
+	•	Updated user interface for clearer reports and easier navigation.
+	•	Refactored code for better readability and maintainability.
+	•	Added new documentation to guide users on advanced features.
+
+	Note: This project was last updated in October 2024 to include improvements and new features.
